@@ -2,6 +2,4 @@
 {"publish":true,"cssclasses":""}
 ---
 
-Testing page
-
-[[tste]]
+testing page for quartz syncer
