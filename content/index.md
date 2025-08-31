@@ -4,4 +4,4 @@
 
 Testing page
 
-[[tste]]
+[[Test folder/tste]]
